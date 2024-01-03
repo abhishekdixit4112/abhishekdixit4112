@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekdixit4112
 - 👀 I’m interested in building responsive websites
-- 🌱 I’m currently learning MERN and DSA
+- 🌱  learning MERN and DSA
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 contact me at - abhishekdixit4112@gmail.com
 
